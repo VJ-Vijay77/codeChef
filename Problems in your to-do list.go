@@ -12,7 +12,7 @@ func main43() {
 		for j := 0; j < N; j++ {
 			var NV int
 			fmt.Scan(&NV)
-			if NV > 1000 {
+			if NV >= 1000 {
 				count++
 			}
 		}
