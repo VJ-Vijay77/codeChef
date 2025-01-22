@@ -5,7 +5,7 @@ import (
 	"math/big"
 )
 
-func main() {
+func maiopn() {
 	var T int
 	fmt.Scan(&T)
 
