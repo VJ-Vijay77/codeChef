@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func mainwe() {
 	var T int
 	fmt.Scan(&T)
 
