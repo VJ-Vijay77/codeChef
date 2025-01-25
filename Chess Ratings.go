@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main5t() {
+func mainuio() {
 	var T int
 	fmt.Scan(&T)
 
