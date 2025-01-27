@@ -5,7 +5,7 @@ import (
 	"math"
 )
 
-func main() {
+func mainopc() {
 	var T int
 	fmt.Scan(&T)
 
